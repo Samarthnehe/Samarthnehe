@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthnehe&label=Profile%20views&color=0e75b6&style=flat" alt="samarthnehe" /> </p>
 
-- 🔭 I’m currently working on **Competitive Coding**
+- 🔭 I’m currently working on **Competitive Coding and MERN**
 
 - 🌱 I’m currently learning **ReactJS and UI design**
 
