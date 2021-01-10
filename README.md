@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS and UI design**
 
-- 👯 I’m looking to collaborate on **front end development**
+- 👯 I’m looking to collaborate on **Web projects**
 
 - 👨‍💻 All of my projects are available at [https://samarthnehe.github.io/](https://samarthnehe.github.io/)
 
