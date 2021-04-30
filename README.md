@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Competitive Coding and MERN**
 
-- 🌱 I’m currently learning **ReactJS and Firebase**
+- 🌱 I’m currently learning **NextJS and Firebase**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://samarthnehe.medium.com/](https://samarthnehe.medium.com/)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/samarth-nehe-a0b9b519b/**
 
