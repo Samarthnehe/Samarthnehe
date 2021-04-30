@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Nehe</h1>
-<h3 align="center">I am a Full Stack Web Developer. Good Hands over HTML, CSS, JS, Bootstrap, NodeJS, ReactJS, Figma and Python.</h3>
+<h3 align="center">I am a Full Stack Web Developer. Good Hands over HTML, CSS, JS, Bootstrap, ReactJS, NodeJS, MongoDB, Figma, Firebase and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthnehe&label=Profile%20views&color=0e75b6&style=flat" alt="samarthnehe" /> </p>
 
