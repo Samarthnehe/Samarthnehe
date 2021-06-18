@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Competitive Coding and MERN**
 
-- 🌱 I’m currently learning **NextJS and Firebase**
+- 🌱 I’m currently learning **React Native and TypeScript**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
