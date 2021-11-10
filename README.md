@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthnehe&label=Profile%20views&color=0e75b6&style=flat" alt="samarthnehe" /> </p>
 
-- 🔭 I’m currently working on **Competitive Coding and MERN**
+- 🔭 I’m currently working on **GraphQL and ReactJS**
 
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 🌱 I’m currently learning **SQL and TypeScript**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
