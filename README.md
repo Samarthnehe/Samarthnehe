@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GraphQL and ReactJS**
 
-- 🌱 I’m currently learning **SQL and TypeScript**
+- 🌱 I’m currently learning **React Native and TypeScript**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
