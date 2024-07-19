@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthnehe&label=Profile%20views&color=0e75b6&style=flat" alt="samarthnehe" /> </p>
 
-- 🔭 I’m currently working on **GraphQL and ReactJS**
+- 🔭 I’m currently working on **Next & React Native**
 
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 👨‍💻 All of my projects are available at [https://samarthnehe.github.io/](https://samarthnehe.github.io/)
+- 👨‍💻 All of my projects are available at [https://samarthnehe.netlify.app/)
 
 - 📝 I regularly write articles on [https://samarthnehe.medium.com/](https://samarthnehe.medium.com/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web & App Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/samarth-nehe-a0b9b519b/**
+- 📫 How to reach me **https://www.linkedin.com/in/samarth-nehe**
 
 - ⚡ Fun fact **I am a professional Rubik's Cube speed solver and a music lover!**
 
